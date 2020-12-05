@@ -49,6 +49,48 @@ Tripulação desconhecida.
 
 # NPCs
 
+## Mecha-Pastor Everaldo
+
+Peridot havia usado o poder de Fábio para derrotar Pastor Everaldo.
+Fábio, sabendo disso, mandou uma cópia degradada de seu intelecto para fazer um pacto com o pastor, que entendeu que era a única maneira de ativar o Anel rapidamente. O pastor colocou um neuro-chip em seu novo corpo, com uma versão degradada - mas magicamente capaz - de fábio.
+
+O pastor já usava neurolink para transferir sua mente à corpos novos. A mente original do pastor é preservada na filacteria.
+
+Perícias:
+
+- Cibermagia 5
+
+- Trocação 4
+
+- Conhecimento 3
+
+- Percepção 2
+
+- Atirar 1
+
+**Vigor**: 1[] 2[] 3[] 4[]
+
+**Vontade**: 1[] 2[] 3[]
+
+**Consequências**: 2[] 2[] 4[] 6[]
+
+#### Ações:
+
+**Relâmpago** (1/cena, +4). O Pastor conjura um relâmpago - em linha - - das pontas de seus dedos.
+
+**Controlar a água**. Controla água o suficiente para deixar o chão de uma área molhada.
+
+**Reviver**. Momentaneamente revive um companheiro caído. Não restaura consequências, só estresse.
+
+**Afogar**. O pastor afoga - ao ar livre - um oponente. Esta ação requer **concentração**. Esta ação causa dano (+0). O jogador deve fazer um teste de resistência em cada turno, que começa com dificuldade 0 e aumenta +2 para cada fracasso. Caso, falhe, ele toma uma consequência em decorrência do oxigênio não chegar no cérebro.
+
+**Chute Pneumático**. Um chute +4 que joga o oponente uma zona para trás.
+
+**Lança-foguete**. Uma lança que é parte do braço e que tem um foguete para impusioná-la.
+
+**Corpo Metálico**. Dureza 2 em acertos não-críticos.
+
+**Pernas Cromadas**. Anda duas zonas por ação, ao invés de uma.
 ## Agostinho, negociador
 
 ## Advogado
