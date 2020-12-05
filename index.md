@@ -2,7 +2,20 @@
 
 # Perícias e Magias
 
-## Lista de Perícias
+As perícias são a base para o seu personagem realizar as quatro ações: atacar, defender, criar vantagem e superar. Pontos elevados de perícia te permitem comprar façanhas. E duas perícias serão a base para determinar o seu limiar de estresse físico e mental.
+
+**Comprando perícias**: você pode investir de 1 a 3 pontos em uma perícia. À partir do quarto ponto, você não aumenta o nível geral da perícia, mas ganha um ponto para gastar em *façanhas* ou *especializações*. No momento de criação do personagem, um personagem bem-qualificado poderá ter 10 pontos de perícias (equivalente a perícias com os seguintes níveis: 4, 3, 2 e 1). Um personagem experiente, poderá ter 15 pontos de experiência (equivalente a perícias com 5, 4, 3, 2 e 1).
+
+Façanhas são qualquer coisa que modifique uma perícia e que não se encaixe numa especialização. Uma prótese cibernética de uma câmera no lugar do olho, que permite que o personagem veja no escuro, é um exemplo de *façanha*. Uma *especialização* aumenta o nível de uma perícia em +1, em uma área específica. Exemplos de especializações são: medicina (*conhecimentos*), armas brancas (*trocação*), esquiva (*atletismo*). Você pode aumentar ainda mais o poder da perícia ao comprar especializações mais específicas ou que tenham interseções. Por exemplo, você pode ser um especialista em armas medievais (*trocação*) e um especialista em *manguais*.
+
+> Sugestão: evite especializações aninhadas, como "Especialista em luta com espadas" e "Especialista em luta com espadas de duas mãos" e "especialista em luta com espadas de duas mãos feitas em Veneza". No final das contas, você teria um bônus de +6 para lugar com uma espada feita em Veneza (+3 da perícia trocação e +3 das especializações). Mas no lugar, você poderia ter especializações que somam o mesmo valor, mas que seria aplicáveis em situações distintas, como "especialista de luta com armas medievais", "especialista em lâminas", "especialista com armas brancas". Desta maneira, este personagem teria um bônus de +6 ao lutar com uma espada e ainda teria um bônus de +4 ao lutar com um mangual e um bônus de +5 ao lutar com uma faca de cozinha, por exemplo.
+
+**Limiar de Estresse**. A base para o cálculo do seu estresse físico será a maior perícia entre trocação e atletismo. A base de cálculo para seu estresse mental será a maior perícia entre comunicação e conhecimento. Você ganha uma caixa de estresse para cada ponto de perícia investido na perícia base.
+
+
+> Por exemplo, se você tem 2 pontos de **Conhecimento**, 2 pontos investidos em **Engenharia** e 1 ponto investido em **Medicina**, você terá 5 caixas de estresse (2+2+1).
+
+### Lista de Perícias
 
 - Atirar
 
@@ -24,37 +37,44 @@
 
 - Qi
 
-As perícias são a base para o seu personagem realizar as quatro ações: atacar, defender, criar vantagem e superar. Pontos elevados de perícia te permitem comprar façanhas. E duas perícias serão a base para determinar o seu limiar de estresse físico e mental.
-
-**Comprando perícias**: você pode investir de 1 a 3 pontos em uma perícia. À partir do quarto ponto, você não aumenta o nível geral da perícia, mas ganha um ponto para gastar em *façanhas* ou *especializações*. No momento de criação do personagem, um personagem bem-qualificado poderá ter 10 pontos de perícias (equivalente a perícias com os seguintes níveis: 4, 3, 2 e 1). Um personagem experiente, poderá ter 15 pontos de experiência (equivalente a perícias com 5, 4, 3, 2 e 1).
-
-Façanhas são qualquer coisa que modifique uma perícia e que não se encaixe numa especialização. Uma prótese cibernética de uma câmera no lugar do olho, que permite que o personagem veja no escuro, é um exemplo de *façanha*. Uma *especialização* aumenta o nível de uma perícia em +1, em uma área específica. Exemplos de especializações são: medicina (*conhecimentos*), armas brancas (*trocação*), esquiva (*atletismo*). Você pode aumentar ainda mais o poder da perícia ao comprar especializações mais específicas ou que tenham interseções. Por exemplo, você pode ser um especialista em armas medievais (*trocação*) e um especialista em *manguais*.
-
-> Sugestão: evite especializações aninhadas, como "Especialista em luta com espadas" e "Especialista em luta com espadas de duas mãos" e "especialista em luta com espadas de duas mãos feitas em Veneza". No final das contas, você teria um bônus de +6 para lugar com uma espada feita em Veneza (+3 da perícia trocação e +3 das especializações). Mas no lugar, você poderia ter especializações que somam o mesmo valor, mas que seria aplicáveis em situações distintas, como "especialista de luta com armas medievais", "especialista em lâminas", "especialista com armas brancas". Desta maneira, este personagem teria um bônus de +6 ao lutar com uma espada e ainda teria um bônus de +4 ao lutar com um mangual e um bônus de +5 ao lutar com uma faca de cozinha, por exemplo.
-
-**Limiar de Estresse**. A base para o cálculo do seu estresse físico será a maior perícia entre trocação e atletismo. A base de cálculo para seu estresse mental será a maior perícia entre comunicação e conhecimento. Você ganha uma caixa de estresse para cada ponto de perícia investido na perícia base.
-
-> Por exemplo, se você tem 2 pontos de **Conhecimento**, 2 pontos investidos em **Engenharia** e 1 ponto investido em **Medicina**, você terá 5 caixas de estresse (2+2+1).
-
 ## Atirar
 
-- Trocação
+!["Atacar"](assets/a_32.png) !["Criar Vantagem"](assets/c_32.png)
 
-- Atletismo
 
-- Comunicação
+Sempre que você quiser atirar alguma coisa em alguém ou alguma coisa, seja com a força dos próprios músculos (como jogando pedras e dardos), seja com o auxílio de instrumentos (como armas de fogo e arcos), você usará atirar.
 
-- Conhecimento
+### Especializações
 
-- Percepção
+**Armas de Mão** [+1]. Você é um perito no uso de armas leves. +1 quando usar qualquer arma que pode ser segurada com uma só mão, como pistolas, revolveres e bestas.
 
-- Safadeza
+**Armas Longas** [+1]. Você tira proveito da estabilidade de armas que precisam de duas mãos, como fuzis, espingardas e escopetas.
 
-- Cibermagia
+**Arcos** [+1]. Arcos são a sua parada.
 
-- Magia
+**Big Fucking Guns** [+1]. Você tem apetite por destruição e usa as maiores armas que encontrar para isso. +1 ao usar lançadores de granadas, *gatling guns*, bazucas...
 
-- Qi
+### Façanhas
+
+**Gun Fu: ataques de oportunidade**. Você provoca ataques de oportunidade contra todos que entrarem na mesma zona que você está.
+
+## Trocação
+
+## Atletismo
+
+## Comunicação
+
+## Conhecimento
+
+## Percepção
+
+## Safadeza
+
+## Cibermagia
+
+## Magia
+
+## Qi
 
 ## Cibermagia
 
