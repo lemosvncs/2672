@@ -122,3 +122,13 @@ Magia é frugal. Você pode fazer quase qualquer coisa, mas, em geral, essa cois
 *Especialização* (Conjurar). Escolha uma escola de magia. Você tem +2 de bônus para realizar magias que se adequem aquela escola. Escolas podem ser disciplinas, como conjuração, adivinhação e abjuração. Podem ser características da realidade, como tempo, espaço e matéria. Ou podem até ser instituições que focam um determinado tipo de magia, como "Escola de Necromancia do Tio Zé".
 
 *Escudo Arcano* (Feitiço).
+
+# Coisas e Equipamentos
+
+## Armas
+
+## Modificações
+
+Modificações são *façanhas* para equipamentos.
+
+**Chekhov's**. Se você **não** usar esta arma em uma *cena*, mas fizer menção à ela, ela dará +2 de dano em uma cena seguinte ou ativará uma automaticamente um efeito que custaria pontos de destino (você deve escolher um dos e qual efeito usaria ao comprar esta modificação).

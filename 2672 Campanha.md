@@ -18,6 +18,10 @@ Todas as bases especiais citadas tem capacidade de atracagem padrão, ao menos a
 
 Zona Espacial Permanente Bakunin é a base especial dos Armored ANTIFA no século 27. Em aparência, é basicamente um martelo giratório. Tem uma Ogiva Temporal (OT) apontada para a Corte Temporal.
 
+Originalmente projetada para ter uma tripuação de 20 pessoas, hoje tem uma de 100. O segundo andar, que continha o dormitório, foi transformado na parte opercional da nave -- com oficinas, laboratórios etc. --, enquanto o quarto andar, que continha carga foi transformado no abrigo para a tripulação.
+
+Nem toda a tripulação é diretamente Armored ANTIFA. A maioria são exilados terráquios e europeus.
+
 Tripulação: ~100
 
 ## Corte Temporal
@@ -26,11 +30,11 @@ A Corte Temporal parece basicamente um prédio de arquitetura barroca no espaço
 
 Tripulação: ~500
 
-## Naves Rebaixadas
+## Naves Rebaixadas Diesel
 
-Os Chicanos tem uma garagem de montagem e manutenção de hot-rods e lowriders. Geralmente, são carros terrestres dos séculos XX e XXI modificados para operação intra e extra-atmosférica. Os Chicanos só estão fazendo a coisa deles e estão aqui puramente por rima narrativa.
+Os Diesel tem uma garagem de montagem e manutenção de hot-rods e lowriders. Geralmente, são carros terrestres dos séculos XX e XXI modificados para operação intra e extra-atmosférica. Os Diesel só estão fazendo a coisa deles e estão aqui puramente por rima narrativa.
 
-Tripulação: ~50
+Tripulação: ~20
 
 ## Cosmo Navio (Fantasma) Overflow
 
@@ -91,25 +95,51 @@ Perícias:
 **Corpo Metálico**. Dureza 2 em acertos não-críticos.
 
 **Pernas Cromadas**. Anda duas zonas por ação, ao invés de uma.
+
+## Adamastor, tamanduá
+
+- Mediador militar da resistência.
+
 ## Agostinho, negociador
+
+- Nascido para trambicar
 
 ## Advogado
 
 - Robô humano. Só "Advogado".
 
--
+
 
 # Capítulo 1 - Alien
 
 Após a viagem espaço-temporal-dimensional, os jogadores se encontram no meio do impasse mexicano entre a Polícia Temporal, ZEP-B e o CNO.
-
+<!--
 Assim que o jogo começar, os jogadores irão receber um aviso pelo computador, vocalizado pelo manequim de magia, que há uma tentativa de teleporte ativa e que o computador está tentando inicializar as defesas, mas os sistemas estão danificados. Dê aos jogadores uma chance, mas em última instância Robinho será teletransportado à CT.
+-->
+
+Quando chegarem na ZEP, os jogadores vão ser apresentados ao  Adamastor, mediador militar da resistência. Um Tamanduá de Nova-noviguaçu. Adamastor carrega consigo um martelo de guerra que é uma réplica do ZEP. Adamastor vai ser claro e direto com os jogadores, bastante abatido:
+
+"Desde que vocês chegaram aqui, tudo foi pro caralho. A gente tava quase cosneguindo negociar uma trégua entre a gente, a RPP (República Popular Protocolar) e os malditos porcos Eurasianos. Logo antes de vocês chegarem aquela maldita catedral apareceu, todo mundo ficou nervoso. Aquela catedral apontou uma OT na nossa direção. A gente apontou uma pra eles. Vocês apareceram, eles apontaram a OT na nave de vocês. Não atiraram com medo de retaliação, né. Agora os caras da Diesel carregaram a OT deles. E eu tenho certeza que vi uma temperatura de calor no Navio".
+
+- A Oligarquia Eurasiana e a RPP estão na Guerra-Zero-Kelvin.
+
+- ZAP de Nova-noviguaçu é um buffer entre a RPP e o Império de Nikity.
+
+- A Polícia Temporal tem como missão secundária proteger a Oligarquia a mando do Terceiro Império do Brasil (no futuro, ninguém sabe disso além deles).
+
+- Esse é um ponto de virada.
+
+
 
 Prontamente, os jogadores vão receber a conexão com o advogado a eles designado pela CT, indicando que o Robinho foi levado em custódia com queixas de sonegação de impostos. Como os jogadores tem queixas menores sobre eles (assassinato, instigar revolta), eles poderão permanecer em liberdade até que o julgamento comece.
 
 O Adevogado responderá quaisquer perguntas que os jogadores fizerem. Mas ele está ali apenas por uma questão burocrática e não tem nenhuma simpatia pelos jogadores (ou por qualquer coisa).
 
-Se os jogadores forem hostis, o BOTE será enviado ao Anel.
+Se os jogadores forem hostis, o BOTE será enviado para encontrar os jogadores.
+
+## Despedida do Gnomo
+
+"Quando você está no vazio do espaço, você precisa deixar algo pra trás pra seguir em frente."
 
 # Capítulo 2 - Negociações
 
