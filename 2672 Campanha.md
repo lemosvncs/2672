@@ -47,7 +47,7 @@ A República Popular Protocolar repudia qualquer ação do Estado Temporal e jul
 
 DuBois
 Líder Supremo & Democrático
-"
+  "
 
 Tripulação desconhecida.
 
@@ -96,9 +96,25 @@ Perícias:
 
 **Pernas Cromadas**. Anda duas zonas por ação, ao invés de uma.
 
+### Mecha-Prisão-Crepúscular
+
+Trocação +5(3). Porrete (E); Porretete (F)
+
+**Porretete (Porrete-foguete)** (1/cena, +6). O Pastor conjura um relâmpago - em linha - - das pontas de seus dedos.
+
+**Chute Pneumático**. Um chute +4 que joga o oponente uma zona para trás.
+
+**Corpo Metálico**. Dureza 2 em acertos não-críticos.
+
+**Pernas Cromadas**. Anda duas zonas por ação, ao invés de uma.
+
+**Escudo Anti-revolta**.
+
 ## Adamastor, tamanduá
 
 - Mediador militar da resistência.
+
+Trocação 4. 
 
 ## Agostinho, negociador
 
@@ -113,6 +129,7 @@ Perícias:
 # Capítulo 1 - Alien
 
 Após a viagem espaço-temporal-dimensional, os jogadores se encontram no meio do impasse mexicano entre a Polícia Temporal, ZEP-B e o CNO.
+
 <!--
 Assim que o jogo começar, os jogadores irão receber um aviso pelo computador, vocalizado pelo manequim de magia, que há uma tentativa de teleporte ativa e que o computador está tentando inicializar as defesas, mas os sistemas estão danificados. Dê aos jogadores uma chance, mas em última instância Robinho será teletransportado à CT.
 -->
