@@ -1,0 +1,298 @@
+---
+title: '2672: Bestiário'
+author: "Vini Lemos"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+  pdf_document:
+    toc: true
+---
+
+# PM do Rio 1999
+
+*Sem vontade de trabalhar*
+
+*Corrupto gente boa*
+
+*TEPT*
+
+## Perícias
+
+Atirar +1
+
+## Equipamento
+
+- Taurus PT 24/7 (30/90 = +1/0)
+
+## Ações
+
+Tiro Taurus (na zona)-> +2
+
+Tiro Preciso (1 zona) -> +2. Não pode se movimentar nesta rodada.
+
+Chamar apoio
+
+## Dano e Estresse
+
+Estresse Físico: 1[ ]
+
+Mental: 1[ ]
+
+Consequência 2[ ]:
+
+
+# PM do Rio 1999 Cheirado
+
+*Sem vontade de trabalhar*
+
+*Corrupto gente boa*
+
+*Usa cocaína para trabalhar melhor*
+
+## Perícias
+
+Atirar +1
+
+Atletismo, Briga +2
+
+## Equipamento
+
+- Taurus PT 24/7 (30/90 = +1/0)
+
+## Ações
+
+Tiro Taurus (na zona)-> +2
+
+Tiro Preciso (1 zona) -> +2. Não pode se movimentar nesta rodada.
+
+Paranóia: sempre tem uma ação de defesa gratuita
+
+Chamar apoio
+
+## Dano e Estresse
+
+Estresse Físico: 1[ ] 2[ ] 3[ ]
+
+Mental: 1[ ]
+
+Consequência 2[ ]:
+
+
+
+# B.O.P.E.
+
+*Matar, matar, matar*
+
+*Só conversa com quem está sobre tortura*
+
+## Perícias
+
+Atirar +3
+
+Atletismo, Briga +2
+
+## Equipamento
+
+- FAL 7.62mm (600/900 = +2/0)
+
+## Ações
+
+Tiro FAL (na zona)-> +5
+
+Tiro FAL (fora da zona, < 900m) -> +4.
+
+Descarregar FAL: +7, +6, +5
+
+Cobertura: Ganha uma defesa grátis se estiver sobre cobertura
+
+## Dano e Estresse
+
+Estresse Físico: 1[ ] 2[ ] 3[ ] 4[ ]
+
+Mental: 1[ ] 2[ ]
+
+Consequência 2[ ]:
+Consequência 4[ ]:
+
+
+
+# B.O.T.E.
+
+*Matar, matar, matar ao longo das eras*
+
+*Nem sabe falar, literalmente um robô*
+
+## Perícias
+
+Atirar +3
+
+Atletismo, Trocação +2
+
+## Equipamento
+
+- Tempus 7.62mm (300/600 = +2/0)
+
+- Cacetete Eletrificado
+
+## Ações
+
+Tiro FAL (na zona)-> +5
+
+Tiro FAL (fora da zona, < 600m) -> +4.
+
+Sobrecarga temporal Tempus: +15 (três ações)
+
+Voltar no tempo: uma vez por cena, pode retroceder no tempo para quando não havia sofrido dano
+
+Trocação: +3, gera um boost de "eletrificado"
+
+## Dano e Estresse
+
+Estresse Físico: 1[ ] 2[ ] 3[ ] 4[ ]
+
+Mental: 1[ ] 2[ ]
+
+Consequência 2[ ]:
+Consequência 4[ ]:
+
+
+# Meca-caveirão 2055
+
+*Caveirão de 2055*
+
+## Perícias
+
+Atirar +3
+
+Trocação +3
+
+## Equipamento
+
+- Tempus Escopeta (100/200 = +3/0)
+
+- Foguetes de Impulso
+
+- Hell-fire (2Km/6Km = +4/+2)
+
+## Ações
+
+Tiro Tempus Munição Concentrada (na zona)-> +6
+
+Tiro Tempus Munição Básica (n zona) -> +4, chance de acertar alvos no cone (mesma área)
+
+Sobrecarga temporal Tempus: +18 ou +12 (área, três ações) 
+
+Salto -> Ação de movimento que gera trocação +3 em quem estiver embaixo
+
+Hell-fire +7 (zona inteira), somente 3 por cena
+
+## Dano e Estresse
+
+Estresse Físico: 1[ ] 2[ ] 3[ ] 4[ ] 5[ ]
+
+Mental: 1[ ]
+
+Consequência 2[ ]: 
+
+Consequência 4[ ]:
+
+Consequência 6[ ]:
+
+Consequência 8[ ]:
+
+
+# Gavião Real Kaiju Edition by Bestiário
+
+*Rosto intimidador*
+
+*Colossal, seu peso destrói prédios*
+
+## Perícias
+
+Atletismo +3, esp. voar
+
+Trocação +4
+
+## Equipamento
+
+Garras (+2)
+
+## Ações
+
+Investida Rasante com Garras-> +8 (uma vez por rodada)
+
+Investida e Segurar -> teste de trocação +4 (sem dano, uma por rodada)
+
+Garras +6 -> (boost de desequilíbrio para os jogadores se usar Garras mais de uma vez por rodada)
+
+Cuspe Ácido -> +2, uma zona, permanente. 
+
+## Dano e Estresse
+
+*Redução de dano 2*
+
+Estresse Físico: 1[ ] 2[ ] 3[ ] 4[ ] 5[ ] 6[ ]
+
+Mental: 1[ ] 2[ ]
+
+Consequência 2[ ]: 
+
+Consequência 4[ ]:
+
+Consequência 6[ ]:
+
+Consequência 8[ ]:
+
+Consequência 8[ ]:
+
+
+
+
+
+
+
+
+# Îagûara Mk.I Stealth
+
+- Robô gigante
+
+## Piloto 1: Energia e Sistemas Perceptivos
+
+Bateria Primordial
+2[ ] 2[ ] 2[ ] 2[ ]
+Recarga: 2 por turno
+
+- Percepção - Visão de Calor (F)[Teste de Conhecimento (computadores) para ativar];
+
+- Conhecimento - Gerenciamento de Energia (F) -> Realoca energia para outras áreas
+
+- Paraná Dynamics Propietary Energy Transference Protocal (PDPETP) - Descarga elétrica direcional à partir do braço (Percepção + Energia Remanescente)
+
+## Piloto 2: Movimentação
+
+Queda Suave - "Pilotar" ND 5
+
+Pilotar - até 3 zonas
+
+Investida - concede +2 à armas em ataques coordenados, pode ser usado para defesa
+
+## Piloto 3: Defesa
+
+- Escudo móvel: placas de metal que podem ser direcionadas (trocação +2)
+
+- Barricada: uma barricada retrátil é disparada à frente do robô (+4 defesa)
+
+
+## Piloto 4: Armas I
+
+Canhão .2: Atirar +4 (1Km/2Km/4Km)
+
+Hellfire -> Míssil infravermelho (atirar +8), Boost: explosão
+
+## Piloto 5: Armas II
+
+- Cortar -> Trocação +3
+
+Estocada de Combustível Sólido: ativa um foguete atrás do punho da espada, usado para estocadas -> Trocação +6
+

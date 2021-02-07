@@ -47,7 +47,7 @@ A República Popular Protocolar repudia qualquer ação do Estado Temporal e jul
 
 DuBois
 Líder Supremo & Democrático
-  "
+"
 
 Tripulação desconhecida.
 
@@ -114,7 +114,7 @@ Trocação +5(3). Porrete (E); Porretete (F)
 
 - Mediador militar da resistência.
 
-Trocação 4. 
+Trocação 4.
 
 ## Agostinho, negociador
 
@@ -164,4 +164,6 @@ Se os jogadores forem hostis, o BOTE será enviado para encontrar os jogadores.
 
 - Terminar o Impasse
 
-#
+# Side-mission: infiltrar o Navio Pirata
+
+# Pernambucanos - Marte
