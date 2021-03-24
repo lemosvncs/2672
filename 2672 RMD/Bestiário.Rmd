@@ -202,6 +202,9 @@ Consequência 6[ ]:
 Consequência 8[ ]:
 
 
+
+
+
 # Gavião Real Kaiju Edition by Bestiário
 
 *Rosto intimidador*
@@ -295,4 +298,82 @@ Hellfire -> Míssil infravermelho (atirar +8), Boost: explosão
 - Cortar -> Trocação +3
 
 Estocada de Combustível Sólido: ativa um foguete atrás do punho da espada, usado para estocadas -> Trocação +6
+
+# Yuan Ti Abominação
+
+Trocação +5. Cimitarra (e), Agarrar (e)
+
+Safadeza +4. Truquesss: sssugestão, medo, amizade com cobras
+
+Percepção +4. Iniciativa (e)
+
+## Equipamento
+
+- Cimitarra +1
+
+- Arco Longo +1/0/0
+
+## Ações
+
+*Mordida*. 4df+4 + 4df (veneno)
+
+*Constrição*. 4df+5. Exige teste de trocação para sair da constrição.
+
+*Cimitarra*. 4df+5
+
+*Arco Longo*. 4df+4
+
+*Sssugestão*. 4df+3. Dano mental ou fazer a ação sugerida.
+
+*Medo*. 4df+2. Área. Dano mental ou fazer a ação sugerida.
+
+
+## Dano e Estresse
+
+Estresse Físico: 1[ ] 2[ ] 3[ ] 4[ ] 5[ ]
+
+Mental: 1[ ] 2[ ] 3[ ] 4[ ]
+
+Consequência 2[ ]: 
+
+Consequência 4[ ]:
+
+Consequência 6[ ]:
+
+
+
+# Yuan Ti Malison 1
+
+Trocação +4. Arco Longo (e)
+
+Safadeza +3.
+
+Percepção +3. Iniciativa (e)
+
+## Equipamento
+
+- Cimitarra +1
+
+- Arco Longo +1/0/0
+
+## Ações
+
+*Mordida*. 4df+4 + 4df (veneno)
+
+*Cimitarra*. 4df+4
+
+*Arco Longo*. 4df+5 + 4df (veneno)
+
+
+## Dano e Estresse
+
+Estresse Físico: 1[ ] 2[ ] 3[ ] 4[ ] 5[ ]
+
+Mental: 1[ ] 2[ ] 3[ ] 4[ ]
+
+Consequência 2[ ]: 
+
+Consequência 4[ ]:
+
+Consequência 6[ ]:
 
